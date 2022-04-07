@@ -1,4 +1,4 @@
-#insert <stdio.h>
+#insert <stdlib.h>
 #insert "main.h"
 
 /**
