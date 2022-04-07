@@ -1,5 +1,5 @@
-#insert <stdlib.h>
-#insert "main.h"
+#include <stdlib.h>
+#include "main.h"
 
 /**
  * *_calloc - allocates memory for an array
